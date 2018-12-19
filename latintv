@@ -778,9 +778,6 @@ http://api.new.livestream.com/accounts/14558256/events/7412168/live.m3u8
 
 #EXTINF:-1, tvg-logo="JKqx2nK.png" group-title="Canales Peruanos", -[COLOR red]Canales Peruanos[/COLOR]-
 
-#EXTINF:-1, tvg-logo="NF7NCCW.png" group-title="Canales Peruanos", Antares TV | SD
-http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
-
 #EXTINF:-1, tvg-logo="NF7NCCW.png" group-title="Canales Peruanos", ATV Noticias | SD
 http://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/playlist.m3u8|User-agent=iPhone
 
@@ -805,6 +802,9 @@ http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="Irldkyg.png" group-title="Canales Peruanos", Cultura 24 TV | SD
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
+
+#EXTINF:-1, tvg-logo="S" group-title="Canales Peruanos", Sol TV | SD
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="3hXZYdt.png" group-title="Canales Puertorriqueños", -[COLOR red]Canales Puertorriqueños[/COLOR]-
 
