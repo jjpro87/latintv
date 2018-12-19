@@ -552,23 +552,9 @@ http://elcanaldelfutbol.com/static/wowza/test/hls/20001/720p/playlist.m3u8
 #EXTINF:-1, tvg-logo="8N2lW9C.png" group-title="Canales Españoles", -[COLOR red]Canales Españoles[/COLOR]-
 
 
-#EXTINF:-1, tvg-logo="sRsCcT6.png" group-title="Canales Españoles", La 1 | HD
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8
 
 #EXTINF:-1, tvg-logo="G7JyLXg.jpg" group-title="Canales Españoles", Telemadrid | SD
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
-
-#EXTINF:-1, tvg-logo="G6tJdMy.png" group-title="Canales Españoles", Be Mad | HD
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
-
-#EXTINF:-1, tvg-logo="kgnflq9.png" group-title="Canales Españoles", FDF | HD
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
-
-#EXTINF:-1, tvg-logo="WmMGr10.png" group-title="Canales Españoles", Divinity | HD
-http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-
-#EXTINF:-1, tvg-logo="hHaTdZk.png" group-title="Canales Españoles", La Xarxa | SD
-http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="VlMzpJH.png" group-title="Canales Españoles", Canal 13 España | SD
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
@@ -792,6 +778,8 @@ http://api.new.livestream.com/accounts/14558256/events/7412168/live.m3u8
 
 #EXTINF:-1, tvg-logo="JKqx2nK.png" group-title="Canales Peruanos", -[COLOR red]Canales Peruanos[/COLOR]-
 
+#EXTINF:-1, tvg-logo="NF7NCCW.png" group-title="Canales Peruanos", Antares TV | SD
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="NF7NCCW.png" group-title="Canales Peruanos", ATV Noticias | SD
 http://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/playlist.m3u8|User-agent=iPhone
