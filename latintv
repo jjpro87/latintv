@@ -774,7 +774,7 @@ https://point1.kystream.com/h9ydbwnjcoe/p7UAKSv6AZ_med/index.m3u8
 #EXTINF:-1, tvg-logo="LEBQ8B5.png" group-title="Canales Mexicanos", RCG 3 | SD
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="Yb8aUmW.jpg" group-title="Canales Mexicanos*", Puebla TV | SD
+#EXTINF:-1, tvg-logo="Yb8aUmW.jpg" group-title="Canales Mexicanos", Puebla TV | SD
 http://189.203.247.136/live/pueblatv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="vJeSFj7.png" group-title="Canales Panameños", -[COLOR red]Canales Panameños[/COLOR]-
