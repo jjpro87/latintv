@@ -683,11 +683,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1, tvg-logo="8O0WxdF.png" group-title="Canales Mexicanos", TV Mas | SD
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="A9kTYN8.png" group-title="Canales Mexicanos", Multimedios Monterrey | HD
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1, tvg-logo="A9kTYN8.png" group-title="Canales Mexicanos", Multimedios Laguna | HD
-http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
 
 #EXTINF:-1, tvg-logo="VHSjbEj.png" group-title="Canales Mexicanos", Milenio | SD
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
@@ -698,8 +694,7 @@ https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
 #EXTINF:-1, tvg-logo="unesBrV.png" group-title="Canales Mexicanos", Ultra TV Aguacalientes | HD
 https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
 
-#EXTINF:-1, tvg-logo="897e9wy.png" group-title="Canales Mexicanos", Teleritmo | SD
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
 
 #EXTINF:-1, tvg-logo="dFQBOLD.png" group-title="Canales Mexicanos", Canal Once IPN | HD
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
@@ -737,8 +732,6 @@ https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8
 #EXTINF:-1, tvg-logo="FQxBTB9.png" group-title="Canales Mexicanos", TV Cuatro 4.2 | HD
 https://5a3911d64928b.streamlock.net/tv42/videotv42/playlist.m3u8
  
-#EXTINF:-1, tvg-logo="FqtpjZs.jpg" group-title="Canales Mexicanos", TVP Mazatlan | FHD
-https://5a3911d64928b.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="MeaSmiv.jpg" group-title="Canales Mexicanos", 15TV Sabinas | SD
 http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
@@ -749,14 +742,10 @@ http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
 #EXTINF:-1, tvg-logo="Z1PEZg2.png" group-title="Canales Mexicanos", Trecevision | SD
 http://streamingcws20.com:1935/trecevision/videotrecevision/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="Bl3z0ax.jpg" group-title="Canales Mexicanos", A+ Monterrey | SD
-https://point1.kystream.com/h9ydbwnjcoe/p7UAKSv6AZ_med/index.m3u8
 
 #EXTINF:-1, tvg-logo="LEBQ8B5.png" group-title="Canales Mexicanos", RCG 3 | SD
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="Yb8aUmW.jpg" group-title="Canales Mexicanos", Puebla TV | SD
-http://189.203.247.136/live/pueblatv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="vJeSFj7.png" group-title="Canales Panameños", -[COLOR red]Canales Panameños[/COLOR]-
 
