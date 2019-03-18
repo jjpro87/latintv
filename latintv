@@ -795,6 +795,10 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b5
 #EXTINF:-1, tvg-logo="S" group-title="Canales Peruanos", Sol TV | SD
 http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="S8xJRB4.png" group-title="Canales Peruanos", cmd | SD
+http://www.cmdenvivo.pe/ver-cmd-en-vivo/
+
+
 #EXTINF:-1, tvg-logo="3hXZYdt.png" group-title="Canales Puertorriqueños", -[COLOR red]Canales Puertorriqueños[/COLOR]-
 
 
