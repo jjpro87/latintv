@@ -795,9 +795,11 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b5
 #EXTINF:-1, tvg-logo="S" group-title="Canales Peruanos", Sol TV | SD
 http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="S8xJRB4.png" group-title="Canales Peruanos", cmd | SD
+#EXTINF:-1, tvg-logo="S8xJRB4.png" group-title="Canales Peruanos", Movistar | SD
 https://2235.janjua.pw:8088/adfree/golpetv1/playlist.m3u8?id=80988&wowzasessionid=3622477815&pk=c585b37e7a95e83c4807b9b202bf4d766353c3ec83e16e7b43f2e325b72fb2e1
 
+#EXTINF:-1, tvg-logo="S8xJRB4.png" group-title="Canales Peruanos", FoxSport | SD
+https://2d03.janjua.pw:8088/adfree/fox01/playlist.m3u8?id=88583&wowzasessionid=3837349086&pk=c585b37e7a95e83c4807b9b202bf4d766353c3ec83e16e7b43f2e325b72fb2e1
 
 #EXTINF:-1, tvg-logo="3hXZYdt.png" group-title="Canales Puertorriqueños", -[COLOR red]Canales Puertorriqueños[/COLOR]-
 
