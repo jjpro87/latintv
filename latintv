@@ -986,8 +986,20 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1, tvg-logo="wpzgjWt.png" group-title="Canales de Musica", Radio Sanborja (Peru) | SD
 https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NOTICIAS:TV Noticias 7.3 (Peru)
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
+
 #EXTINF:-1, tvg-logo="S" group-title="Canales Peruanos", Sol TV | SD
 http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="PERU", TV Peru (Alt) | SD
+http://cdnh4.iblups.com/hls/irtp.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="PERU", Central TV | SD
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eqpww5i.png" group-title="PERU", Turbo Mix Radio TV | SD
+http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
 
 #EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Internacionales", Radio Disney (Peru) 
 http://173.192.105.252:8000/
