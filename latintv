@@ -983,7 +983,7 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1, tvg-logo="NdBHjyC.png" group-title="Canales Peruanos", Panamericana | SD
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
-#EXTINF:-1, tvg-logo="wpzgjWt.png" group-title="Canales de Musica", Radio Sanborja (Peru) | SD
+#EXTINF:-1, tvg-logo="wpzgjWt.png" group-title="Canales Peruanos", Radio Sanborja (Peru) | SD
 https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",NOTICIAS:TV Noticias 7.3 (Peru)
@@ -992,7 +992,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
 #EXTINF:-1, tvg-logo="S" group-title="Canales Peruanos", Sol TV | SD
 http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="xDDd7fP.png" group-title="Canales Miscelaneos", Telemundo | HD (Estados Unidos)
+#EXTINF:-1, tvg-logo="T" group-title="Canales Peruanos", Telemundo | HD (Estados Unidos)
 http://161.0.157.9/PLTV/88888888/224/3221226207/index.m3u8
 
 #EXTINF:-1, tvg-logo="S" group-title="Canales Peruanos", TV PERU | SD
@@ -1004,7 +1004,7 @@ http://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1, tvg-logo="S" group-title="Canales Peruanos", TV Peru (Alt) | SD
 http://cdnh4.iblups.com/hls/irtp.m3u8
 
-#EXTINF:-1, tvg-logo="C" group-title="Canales Peruanos", Central TV | SD
+#EXTINF:-1, tvg-logo="C" group-title="Canales Peruanos", , TV | SD
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="T" group-title="Canales Peruanos", Turbo Mix Radio TV | SD
