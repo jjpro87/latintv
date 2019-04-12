@@ -1027,6 +1027,7 @@ http://178.32.62.172:8600/stream/1/
 
 #EXTINF:-1, tvg-logo="radioplayerperu.studio92.com/img/default.jpg" group-title="Canales Peruanos", Studio 92
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_STUDIO92.mp3?DIST=RPPplayer&TGT=RPPplayer&maxServers=2&ua=RadioTime&ttag=RadioTime
+
 #EXTINF:-1, tvg-logo="3hXZYdt.png" group-title="Canales Puertorriqueños", -[COLOR red]Canales Puertorriqueños[/COLOR]-
 
 
