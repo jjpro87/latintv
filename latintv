@@ -992,34 +992,37 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
 #EXTINF:-1, tvg-logo="S" group-title="Canales Peruanos", Sol TV | SD
 http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
 
-#EXTINF:-1,TV PERU
+#EXTINF:-1, tvg-logo="xDDd7fP.png" group-title="Canales Miscelaneos", Telemundo | HD (Estados Unidos)
+http://161.0.157.9/PLTV/88888888/224/3221226207/index.m3u8
+
+#EXTINF:-1, tvg-logo="S" group-title="Canales Peruanos", TV PERU | SD
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 
-#EXTINF:-1,TV PERU 7.3
+#EXTINF:-1, tvg-logo="P" group-title="Canales Peruanos", PERU 7.3 | SD
 http://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="PERU", TV Peru (Alt) | SD
+#EXTINF:-1, tvg-logo="S" group-title="Canales Peruanos", TV Peru (Alt) | SD
 http://cdnh4.iblups.com/hls/irtp.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="PERU", Central TV | SD
+#EXTINF:-1, tvg-logo="C" group-title="Canales Peruanos", Central TV | SD
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eqpww5i.png" group-title="PERU", Turbo Mix Radio TV | SD
+#EXTINF:-1, tvg-logo="T" group-title="Canales Peruanos", Turbo Mix Radio TV | SD
 http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Internacionales", Radio Disney (Peru) 
+##EXTINF:-1, tvg-logo="R" group-title="Canales Peruanos", Radio Disney (Peru) 
 http://173.192.105.252:8000/
 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Internacionales", Radio Studio92 (Peru)
+#EXTINF:-1, tvg-logo="R" group-title="Canales Peruanos", Radio Studio92 (Peru)
 https://17833.live.streamtheworld.com/RADIO_STUDIO92.mp3
 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Internacionales", Radio Oasis (Peru)
+#EXTINF:-1, tvg-logo="R" group-title="Canales Peruanos", Radio Oasis (Peru)
 https://18723.live.streamtheworld.com/CRP_OAS_SC
 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Internacionales", Anime Obsesion (Peru)
+#EXTINF:-1, tvg-logo="A" group-title="Canales Peruanos", Anime Obsesion (Peru)
 http://animeobsesion.pe:8000/
 
-#EXTINF:-1, radio="true" tvg-logo="" group-title="Radios Online", Radio Asian World (Peru)
+#EXTINF:-1, tvg-logo="R" group-title="Canales Peruanos", Radio Asian World (Peru)
 http://178.32.62.172:8600/stream/1/
 
 #EXTINF:-1, tvg-logo="3hXZYdt.png" group-title="Canales Puertorriqueños", -[COLOR red]Canales Puertorriqueños[/COLOR]-
