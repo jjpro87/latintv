@@ -956,6 +956,9 @@ http://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/playlist.m3u8|User-agen
 #EXTINF:-1, tvg-logo="S8xJRB4.png" group-title="Canales Peruanos", ATV | SD
 http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/playlist.m3u8|User-agent=iPhone
 
+#EXTINF:-1, tvg-logo="W" group-title="Canales Peruanos", Willax TV | SD
+http://api.new.livestream.com/accounts/26619010/events/7987650/live.m3u8
+
 #EXTINF:-1, tvg-logo="oaxSwdU.png" group-title="Canales Peruanos", TV Peru Noticias | SD
 https://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
 
@@ -1010,7 +1013,8 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1, tvg-logo="T" group-title="Canales Peruanos", Turbo Mix Radio TV | SD
 http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
 
-#EXTINF:-1, tvg-logo="S" group-title="Canales Peruanos", Turbo Mix Radio TV | SD
+#EXTINF:-1, tvg-logo="S" group-title="Canales Peruanos", Real Madrid
+| SD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1, tvg-logo="M" group-title="Canales Peruanos", Mega TV | SD
