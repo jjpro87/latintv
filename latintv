@@ -4,6 +4,9 @@
 
 #EXTINF:-1, tvg-logo="fKByJrs.png" group-title="Canales Chilenos", -[COLOR red]Canales Chilenos[/COLOR]-
 
+#EXTINF:-1, tvg-logo="sCvUjtl.png" group-title="Canales Chilenos", La monja | HD
+http://descarga.hopto.org/TERROR/La%20Monja-2018.mp4.mp4
+
 
 #EXTINF:-1, tvg-logo="sCvUjtl.png" group-title="Canales Chilenos", La Red | HD
 https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone
