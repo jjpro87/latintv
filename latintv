@@ -1025,6 +1025,9 @@ http://animeobsesion.pe:8000/
 #EXTINF:-1, tvg-logo="R" group-title="Canales Peruanos", Radio Asian World (Peru)
 http://178.32.62.172:8600/stream/1/
 
+#EXTINF:-1, tvg-logo="9" group-title="Canales Peruanos", Studio 92
+https://radio.studio92.com/
+
 #EXTINF:-1, tvg-logo="3hXZYdt.png" group-title="Canales Puertorriqueños", -[COLOR red]Canales Puertorriqueños[/COLOR]-
 
 
