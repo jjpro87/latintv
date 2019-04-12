@@ -1013,6 +1013,9 @@ http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
 #EXTINF:-1, tvg-logo="S" group-title="Canales Peruanos", Turbo Mix Radio TV | SD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 
+#EXTINF:-1, tvg-logo="M" group-title="Canales Peruanos", Mega TV | SD
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
+
 
 ##EXTINF:-1, tvg-logo="R" group-title="Canales Peruanos", Radio Disney (Peru) 
 http://173.192.105.252:8000/
