@@ -4,8 +4,6 @@
 #EXTINF:-1, tvg-logo="sCvUjtl.png" group-title="1 G.O.T", se08e01 | HD
 https://str19.vidoza.net/x4lf6nrywvzpvjumxahuitcr6peknmlvtdllz7uflj4jg6cumganjypzsh7q/v.mp4
 
-#EXTINF:-1, tvg-logo="fKByJrs.png" group-title="Canales Chilenos", -[COLOR red]Canales Chilenos[/COLOR]-
-
 #EXTINF:-1, tvg-logo="sCvUjtl.png" group-title="1 peliculas", La monja | HD
 http://descarga.hopto.org/TERROR/La%20Monja-2018.mp4.mp4
 
@@ -1291,6 +1289,9 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 
 #EXTINF:-1, tvg-logo="xDDd7fP.png" group-title="Canales Miscelaneos", Telemundo | HD (Estados Unidos)
 http://161.0.157.9/PLTV/88888888/224/3221226207/index.m3u8
+
+#EXTINF:-1, tvg-logo="xDDd7fP.png" group-title="Canales Miscelaneos", Univision | HD (Estados Unidos)
+http://54.39.158.163:25461/video_club/video_club1/280355
 
 #EXTINF:-1, tvg-logo="8k0MX9h.png" group-title="Canales Miscelaneos", MyNetwork TV | SD (Estados Unidos)
 http://161.0.157.9/PLTV/88888888/224/3221226727/03.m3u8
