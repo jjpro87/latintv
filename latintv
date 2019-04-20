@@ -915,7 +915,13 @@ http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:li
  
 #EXTINF:-1, tvg-logo="xcpZ2Gr.jpg" group-title="Canales Mexicanos", Tlaxcala TV | SD
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
- 
+
+#EXTINF:-1, tvg-logo="xDDd7fP.png" group-title="Canales Mexicanos", Telemundo | HD (Estados Unidos)
+http://161.0.157.9/PLTV/88888888/224/3221226207/index.m3u8
+
+#EXTINF:-1, tvg-logo="xDDd7fP.png" group-title="Canales Mexicanos", Univision | HD (Estados Unidos)
+http://54.39.158.163:25461/video_club/video_club1/280355
+
 #EXTINF:-1, tvg-logo="6xKwAuc.png" group-title="Canales Mexicanos", Capital 21 | SD
 http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
  
