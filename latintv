@@ -886,6 +886,9 @@ https://5b75a34d98793.streamlock.net/ltv/ltv/playlist.m3u8'
 #EXTINF:-1, tvg-logo="eGvLDVR.png" group-title="Canales Mexicanos", Canal 10 Chetumal | HD
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="xDDd7fP.png" group-title="Canales Mexicanos", Telemundo | HD (Estados Unidos)
+http://161.0.157.9/PLTV/88888888/224/3221226207/index.m3u8
+
 #EXTINF:-1, tvg-logo="A9kTYN8.png" group-title="Canales Mexicanos", Multimedios Monterrey | HD
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
@@ -1060,8 +1063,7 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1, tvg-logo="T" group-title="Canales Peruanos", Turbo Mix Radio TV | SD
 http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
 
-#EXTINF:-1, tvg-logo="S" group-title="Canales Peruanos", Real Madrid
-| SD
+#EXTINF:-1, tvg-logo="S" group-title="Canales Peruanos", Real Madrid| SD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1, tvg-logo="M" group-title="Canales Peruanos", Mega TV | SD
