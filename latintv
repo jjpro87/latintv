@@ -1,9 +1,6 @@
 
 #EXTINF:-1, tvg-logo="" group-title="Leeme",- [COLOR cyan]Actualizado 04/04/2019[/COLOR] -
 
-#EXTINF:-1, tvg-logo="sCvUjtl.png" group-title="1 G.O.T", se08e01 | HD
-https://str19.vidoza.net/x4lf6nrywvzpvjumxahuitcr6peknmlvtdllz7uflj4jg6cumganjypzsh7q/v.mp4
-
 #EXTINF:-1, tvg-logo="sCvUjtl.png" group-title="1 peliculas", La monja | HD
 http://descarga.hopto.org/TERROR/La%20Monja-2018.mp4.mp4
 
@@ -964,10 +961,10 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1, tvg-logo="vJeSFj7.png" group-title="Canales Panameños", -[COLOR red]Canales Panameños[/COLOR]-
 
 
-#EXTINF:-1, tvg-logo="rRmG5kE.jpg" group-title="Canales Panameños", ECO | HD
+#EXTINF:-1, tvg-logo="E" group-title="Canales Panameños", ECO | HD
 http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="BxZR6fX.png" group-title="Canales Panameños", Nex TV | SD
+#EXTINF:-1, tvg-logo="N" group-title="Canales Panameños", Nex TV | SD
 http://161.0.157.9/PLTV/88888888/224/3221226207/index.m3u8
 
 #EXTINF:-1, tvg-logo="cJxYPNC.jpg" group-title="Canales Panameños", Telemetro | SD
