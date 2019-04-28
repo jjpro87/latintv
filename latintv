@@ -1,9 +1,11 @@
 
 #EXTINF:-1, tvg-logo="" group-title="Leeme",- [COLOR cyan]Actualizado 04/04/2019[/COLOR] -
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="1 peliculas", adult 1
+#EXTINF:-1 tvg-logo="A" group-title="1 peliculas", adult 1
 https://cdn77-vid.xnxx-cdn.com/WVJpYCnHObPSpnEjewuqEw==,1556447425/videos/hls/a3/85/58/a385589ffe72bfd8ec0438622d41c129/hls.m3u8
 
+#EXTINF:-1 tvg-logo="A" group-title="1 peliculas", adult 2
+https://cdn77-vid.xnxx-cdn.com/A0Vg_dVg-Txcsx9wN1vlzg==,1556449382/videos/hls/c9/fe/28/c9fe28950106c24ba4e11e79e6e2d5df/hls.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png" group-title="1 peliculas",HBO (SAP)
 http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8?fluxustv.m3u8
