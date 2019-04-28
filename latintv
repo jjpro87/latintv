@@ -1,6 +1,15 @@
 
 #EXTINF:-1, tvg-logo="" group-title="Leeme",- [COLOR cyan]Actualizado 04/04/2019[/COLOR] -
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="1 peliculas",H2 (New!)
+http://190.13.120.113/streams/biography.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png" group-title="1 peliculas",HBO (SAP)
+http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/59463/logo_hbo%204.png" group-title="1 peliculas",HBO 2 (SAP)
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8?fluxustv.m3u8
+
 #EXTINF:-1, tvg-logo="sCvUjtl.png" group-title="1 peliculas", La monja | HD
 http://descarga.hopto.org/TERROR/La%20Monja-2018.mp4.mp4
 
