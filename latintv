@@ -977,9 +977,9 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 http://cdnlive.medcom.com.pa/medcom-livestream/eco-live/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="N" group-title="Canales Panameños", Nex TV | SD
-http://161.0.157.9/PLTV/88888888/224/3221226207/index.m3u8
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
 
-#EXTINF:-1, tvg-logo="cJxYPNC.jpg" group-title="Canales Panameños", Telemetro | SD
+#EXTINF:-1, tvg-logo="T" group-title="Canales Panameños", Telemetro | SD
 https://medcom-livechannel.akamaized.net/medcom-mobile-stream/tm-livetv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="6IfAfTl.png" group-title="Canales Panameños", Mall TV | SD
