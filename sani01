@@ -280,24 +280,34 @@ https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d
 #EXTINF:-1, tvg-logo="egIliuT.png" group-title="USA", Fox Sports Racing | HD
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 
+#EXTINF:-1, group-title="USA", The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+
 #EXTINF:-1, group-title="USA", ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+
 #EXTINF:-1, group-title="USA", CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
 #EXTINF:-1, group-title="USA", MSNBC
 http://http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+
 #EXTINF:-1, group-title="USA", Bloomberg TV
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+
 #EXTINF:-1, group-title="USA", Bloomberg TV*
 http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
+
 #EXTINF:-1, group-title="USA", Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
-#EXTINF:0, group-title="USA", Hallmark Channel
-http://23.237.22.82:8086/udp/127.0.0.1:56067
-#EXTINF:0, group-title="USA", HGTV
-http://23.237.22.82:8086/udp/127.0.0.1:56069
-#EXTINF:0, group-title="USA", Travel Channel
-http://23.237.22.82:8086/udp/127.0.0.1:56071
-#EXTINF:0, group-title="USA", History Channel
-http://23.237.22.82:8086/udp/127.0.0.1:56072
+#EXTINF:-1, group-title="USA", MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1, group-title="USA", CBN
+https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+#EXTINF:-1, group-title="USA", NRB TV
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1, group-title="USA", NASA TV Public
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
