@@ -231,8 +231,9 @@ http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/66500
 
 
 
-#EXTINF:-1, tvg-logo="E" group-title="USA", ESPN 2 USA | HD
+#EXTINF:-1, tvg-logo="" group-title="USA", ESPN 2 USA | HD
 http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+
 #EXTINF:-1, tvg-logo="A" group-title="USA", ABC | HD
 http://190.80.3.28/ABC/ABC.isml/index.m3u8
 
@@ -248,8 +249,6 @@ http://161.0.157.9/PLTV/88888888/224/3221226207/index.m3u8
 #EXTINF:-1, tvg-logo="C" group-title="USA", CBC | SD (Canada)
 http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
 
-#EXTINF:-1, tvg-logo="F" group-title="USA", FOX 5 | HD (Estados Unidos)
-http://23.237.22.82:8086/udp/127.0.0.1:56163
 
 #EXTINF:-1, tvg-loGO="W" group-title="USA", CW | HD (Estados Unidos)
 http://190.80.3.28/CW/CW.isml/index.m3u8
