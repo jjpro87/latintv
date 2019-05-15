@@ -262,7 +262,7 @@ http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="S" group-title="USA", FS1 | HD
 http://stream.fs1.tv:8080/hls/webstream.m3u8
 
-#EXTINF:-1, tvg-logo="8cnXJcu.png" group-title="USAs", Red Bull TV | FHD
+#EXTINF:-1, tvg-logo="8cnXJcu.png" group-title="USA", Red Bull TV | FHD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1, tvg-logo="O4eaaVw.png" group-title="USA", Real Madrid TV | SD
@@ -279,3 +279,25 @@ https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d
 
 #EXTINF:-1, tvg-logo="egIliuT.png" group-title="USA", Fox Sports Racing | HD
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+
+#EXTINF:-1, group-title="USA", ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:-1, group-title="USA", CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1, group-title="USA", MSNBC
+http://http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1, group-title="USA", Bloomberg TV
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1, group-title="USA", Bloomberg TV*
+http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
+#EXTINF:-1, group-title="USA", Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:0, group-title="USA", Hallmark Channel
+http://23.237.22.82:8086/udp/127.0.0.1:56067
+#EXTINF:0, group-title="USA", HGTV
+http://23.237.22.82:8086/udp/127.0.0.1:56069
+#EXTINF:0, group-title="USA", Travel Channel
+http://23.237.22.82:8086/udp/127.0.0.1:56071
+#EXTINF:0, group-title="USA", History Channel
+http://23.237.22.82:8086/udp/127.0.0.1:56072
