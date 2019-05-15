@@ -261,3 +261,21 @@ http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="S" group-title="USA", FS1 | HD
 http://stream.fs1.tv:8080/hls/webstream.m3u8
+
+#EXTINF:-1, tvg-logo="8cnXJcu.png" group-title="USAs", Red Bull TV | FHD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1, tvg-logo="O4eaaVw.png" group-title="USA", Real Madrid TV | SD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1, tvg-logo="B9hF2TH.png" group-title="USA", Fight Time | HD
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+
+#EXTINF:-1, tvg-logo="IU8OrKh.png" group-title="USA", NBC Golf | HD
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8
+
+#EXTINF:-1, tvg-logo="Hoo00j4.jpg" group-title="USA", Stadium Sports Network | SD
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+
+#EXTINF:-1, tvg-logo="egIliuT.png" group-title="USA", Fox Sports Racing | HD
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
