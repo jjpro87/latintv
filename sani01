@@ -261,6 +261,9 @@ http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?
 #EXTINF:-1, tvg-logo="T" group-title="USA", Travel Channel | HD
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 
+#EXTINF:-1, tvg-logo="S" group-title="USA", Pbs Kids | HD
+http://live-cdn.pbskids.org/out/u/est.m3u8
+
 #EXTINF:-1, tvg-logo="S" group-title="USA", FS1 | HD
 http://stream.fs1.tv:8080/hls/webstream.m3u8
 
@@ -288,7 +291,10 @@ https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1, group-title="USA", ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 
-#EXTINF:-1, group-title="USA", CBS News
+#EXTINF:-1, group-title="USA", CBS News 
+http://abclive.abcnews.com/i/abc_live1@136327/master.m3u8
+
+#EXTINF:-1, group-title="USA", CBS News 2
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
 #EXTINF:-1, group-title="USA", MSNBC
@@ -315,4 +321,4 @@ http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
 
 #EXTINF:-1, group-title="USA", Fox 4 Dallas
-https://livestream.com/accounts/6395980/events/2598380/player?enableInfoAndActivity=true&autoplay=false&mute=false
+https://livestream-f.akamaihd.net/i/6395980_2598380_lsixbhwnc74vnoxi3jq_1@447345/index_678_av-p.m3u8?sd=4&dw=14400&set-segment-duration=responsive&rebase=on&hdntl=exp=1558211951~acl=%2fi%2f6395980_2598380_lsixbhwnc74vnoxi3jq_1%40447345%2f*~data=hdntl~hmac=48f05f61d3d3b48fdc1a7111479d29119cdbb5240a88c4378e7da593af9ddecb
