@@ -1066,6 +1066,9 @@ http://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1, tvg-logo="S" group-title="Canales Peruanos", TV Peru (Alt) | SD
 http://cdnh4.iblups.com/hls/irtp.m3u8
 
+#EXTINF:-1, tvg-logo="S" group-title="Canales Peruanos", Pax TV | SD
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="C" group-title="Canales Peruanos", Central TV | SD
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
