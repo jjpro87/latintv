@@ -568,6 +568,8 @@ http://api.new.livestream.com/accounts/10468276/events/3485826/live.m3u8
 
 #EXTINF:-1, tvg-logo="wvj1Qog.png" group-title="Canales Colombianos", -[COLOR red]Canales Colombianos[/COLOR]-
 
+#EXTINF:-1, tvg-logo="any5MCR.png" group-title="Canales Colombianos", Telesur | SD
+http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="any5MCR.png" group-title="Canales Colombianos", Canal CNC Medellin | SD
 http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
