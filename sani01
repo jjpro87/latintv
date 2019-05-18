@@ -352,4 +352,7 @@ http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
 
 #EXTINF:-1, group-title="USA", Fox 4 Dallas
-https://livestream-f.akamaihd.net/i/6395980_2598380_lsixbhwnc74vnoxi3jq_1@447345/index_678_av-p.m3u8?sd=4&dw=14400&set-segment-duration=responsive&rebase=on&hdntl=exp=1558211951~acl=%2fi%2f6395980_2598380_lsixbhwnc74vnoxi3jq_1%40447345%2f*~data=hdntl~hmac=48f05f61d3d3b48fdc1a7111479d29119cdbb5240a88c4378e7da593af9ddecb
+https://livestream.com/accounts/6395980/events/2598380/player?enableInfoAndActivity=true&autoplay=false&mute=false
+
+#EXTINF:-1, group-title="USA", Fox 4 Dallas
+https://livestream.com/accounts/6395980/events/2598380/player=mxplayer&autoplay=false&mute=false
