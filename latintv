@@ -1,7 +1,7 @@
 
 #EXTINF:-1, tvg-logo="" group-title="Leeme",- [COLOR cyan]Actualizado 04/04/2019[/COLOR] -
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png" group-title="1 peliculas", NBA Finals
+#EXTINF:-1 tvg-logo="F" group-title="1 peliculas", NBA Finals
 https://live.vimeocdn.com/1560217862-0x87353008e8fdeb53d358d69b6d853ccb9fb6bcc2/a4323709-05a2-4bd4-a4b5-00d5948416cc/chunklist_b5256000.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png" group-title="1 peliculas",HBO (SAP)
