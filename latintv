@@ -55,47 +55,6 @@ http://193.200.241.206:8000/movie/mia/mia/159.mkv
 #EXTINF:-1, tvg-logo="sCvUjtl.png" group-title="Canales Chilenos", La Red | HD
 https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone
 
-#EXTINF:-1, tvg-logo="b8fK0FK.png" group-title="Canales Chilenos", TV+ | HD
-http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="f41IHoB.png" group-title="Canales Chilenos", TVN | HD
-http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?
- 
-#EXTINF:-1, tvg-logo="HN9mYDP.png" group-title="Canales Chilenos", MEGA | HD
-http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
-
-#EXTINF:-1, tvg-logo="AopOaEX.jpg" group-title="Canales Chilenos", CHV | HD
-https://mdstrm.com/live-stream-playlist/5988625542916c5029e26e36.m3u8
-
-#EXTINF:-1, tvg-logo="HIljscQ.png" group-title="Canales Chilenos", Canal 13 | SD
-http://c13-live-1.cdn.nedmedia.io/index.m3u8
-
-#EXTINF:-1, tvg-logo="6RSsii5.png" group-title="Canales Chilenos", T13 Movil | SD
-http://t13-movil-live.cdn.nedmedia.io/index.m3u8
-
-#EXTINF:-1, tvg-logo="Dd9PMar.png" group-title="Canales Chilenos", CNN Chile | HD
-http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="PU2cqzN.png" group-title="Canales Chilenos", 24 Play | HD
-http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
-
-#EXTINF:-1, tvg-logo="W5sgqEl.png" group-title="Canales Chilenos", TVN de Culto | SD
-http://mdstrm.com/live-stream-playlist/591f67a4232da1260ac8c950.m3u8
-
-#EXTINF:-1, tvg-logo="0kJfD7l.png" group-title="Canales Chilenos", TV Chile | SD
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
-
-#EXTINF:-1, tvg-logo="FdIou2C.png" group-title="Canales Chilenos", TVN Musica | HD
-http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8
-
-#EXTINF:-1, tvg-logo="5egLidz.png" group-title="Canales Chilenos", TVN Kids | SD
-http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8
-
-#EXTINF:-1, tvg-logo="Hqlqsn3.png" group-title="Canales Chilenos", Ahora Noticias | HD
-http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
-
-#EXTINF:-1, tvg-logo="sEocONH.png" group-title="Canales Chilenos", UCV 3 | HD
-http://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="wAcHSCG.png" group-title="Canales Chilenos", BIG Radio | HD
 http://iptv.niumedia.cl/live-streaming-hls/niumedia.m3u8
@@ -109,15 +68,6 @@ http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8
 #EXTINF:-1, tvg-logo="2HGma9m.png" group-title="Canales Chilenos", CDO | HD
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="tZ3gJiP.png" group-title="Canales Chilenos", Canal 9 | HD | Concepcion
-http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="XHChUjI.png" group-title="Canales Chilenos", TVU | HD
-http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="XHChUjI.png" group-title="Canales Chilenos", TVU 2 | HD
-https://unlimited6-cl.dps.live/tvu2/tvu2.smil/playlist.m3u8
-
 #EXTINF:-1, tvg-logo="LHn9ofg.png" group-title="Canales Chilenos", Contivision | HD
 https://unlimited4-cl.dps.live/contivision/contivision.smil/playlist.m3u8?laope.m3u8
 
@@ -130,23 +80,12 @@ http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
 #EXTINF:-1, tvg-logo="ozCnnDg.png" group-title="Canales Chilenos", TV Senado | HD
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
 
-#EXTINF:-1, tvg-logo="KO9XhLU.png" group-title="Canales Chilenos", Sporting | HD
-http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="QL0Jmm8.png" group-title="Canales Chilenos", Canal Carnaval | HD
-http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/carnavaltv.smil/chunklist.m3u8
-
 #EXTINF:-1, tvg-logo="DAXmZWE.png" group-title="Canales Chilenos", FM Hot | HD
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="KwfeRYf.jpg" group-title="Canales Chilenos", Tendencias Prime | HD
 https://v3.tustreaming.cl/tendenciastv/live1/index.m3u8
 
-#EXTINF:-1, tvg-logo="h7kkwPB.png" group-title="Canales Chilenos", TV Salud | HD
-http://hd.chileservidores.cl:8080/inicial/tvsalud/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="f41IHoB.png" group-title="Canales Chilenos", TVN Señal de Pruebas | HD
-http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 
 #EXTINF:-1, tvg-logo="1QZNvHK.jpg" group-title="Canales Juveniles", -[COLOR red]Canales Juveniles[/COLOR]-
 
@@ -857,12 +796,6 @@ https://5a0b422785262.streamlock.net:1936/telecosta/telecosta/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="e1yBqkX.png" group-title="Canales Guatemaltecos", El Super 3 | SD
 https://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_3.smil/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="fKByJrs.png" group-title="Canales Haitianos", -[COLOR red]Canales Haitianos[/COLOR]-
-
-
-#EXTINF:-1, tvg-logo="jgUpAaS.png" group-title="Canales Haitianos", Radio Tele Boston | SD
-http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="jggBn4N.png" group-title="Canales Hondureños", -[COLOR red]Canales Hondureños[/COLOR]-
 
