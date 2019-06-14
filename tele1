@@ -1,3 +1,6 @@
+#EXTINF:-1 tvg-logo="F" group-title="USA", NBA Finals
+https://ul.cdn946.net:8443/hls/7nst2g.m3u8?s=ERyIIF7FtaX4edOrGZNGiA&e=1560495769
+
 #EXTINF:-1, tvg-logo="A" group-title="USA", ABC | HD
 http://190.80.3.28/ABC/ABC.isml/index.m3u8
 
