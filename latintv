@@ -1,11 +1,14 @@
 
 #EXTINF:-1, tvg-logo="" group-title="Leeme",- [COLOR cyan]Actualizado 04/04/2019[/COLOR] -
 
+#EXTINF:-1 tvg-logo="F" group-title="1 reina del sur", 02e34_1
+https://www.dailymotion.com/embed/video/x7ankin?autoplay=1
+
 #EXTINF:-1 tvg-logo="F" group-title="1 reina del sur", 02e34
 https://proxy-14.nyc.dailymotion.com/sec(ie_KKMG3lngG0gpoPHy7FIukQIyU31PUeZsGP3WsLaMrN_JPZOe7Wgiz3OJbJmjt_PPBPpGDnxX-UHre_wlace4bkRsFAXj9fWU3ettueNE)/video/170/951/441159071_mp4_h264_aac_hq.m3u8
 
 #EXTINF:-1 tvg-logo="F" group-title="1 reina del sur", 02e35
-https://proxy-08.nyc.dailymotion.com/sec(xC_iF4nXGoWVwevj08vdLRy-y63u0ATbJb5Uf-UEnFxUh2rK6UKSIrWVQfjw4xEFgocwPhtYEFP4dPapPWDf7iPorBpf9wgvfGPcpO6l_Ls)/video/078/951/441159870_mp4_h264_aac_l2.m3u8
+https://www.dailymotion.com/cdn/manifest/video/x7anl4u.m3u8?sec=sus2AolW6TL5gsLTSx_6WqIsMtLbpVb7-Vbv-wV7uNFFLZT442vs_YLCfd0741vpV2DJLYlNK2VnwgmmpTSg7g
 
 #EXTINF:-1 tvg-logo="F" group-title="1 reina del sur", 02e36
 https://proxy-18.nyc.dailymotion.com/sec(6mjGSXKUXBTNOsXCOTFc-b3MKSzkZu_ho9mUO6S9f6xuKbWiZTMFLUGQqQ3Xa3xlmEDO2hRqIppPWA7udzkQBAH5I5C_SGugkUqAcQWXF8o)/video/140/779/440977041_mp4_h264_aac.m3u8
