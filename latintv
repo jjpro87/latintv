@@ -1,8 +1,26 @@
 
 #EXTINF:-1, tvg-logo="" group-title="Leeme",- [COLOR cyan]Actualizado 04/04/2019[/COLOR] -
 
+#EXTINF:-1 tvg-logo="F" group-title="1 reina del sur", 02e34
+https://proxy-14.nyc.dailymotion.com/sec(ie_KKMG3lngG0gpoPHy7FIukQIyU31PUeZsGP3WsLaMrN_JPZOe7Wgiz3OJbJmjt_PPBPpGDnxX-UHre_wlace4bkRsFAXj9fWU3ettueNE)/video/170/951/441159071_mp4_h264_aac_hq.m3u8
+
+#EXTINF:-1 tvg-logo="F" group-title="1 reina del sur", 02e35
+https://proxy-08.nyc.dailymotion.com/sec(xC_iF4nXGoWVwevj08vdLRy-y63u0ATbJb5Uf-UEnFxUh2rK6UKSIrWVQfjw4xEFgocwPhtYEFP4dPapPWDf7iPorBpf9wgvfGPcpO6l_Ls)/video/078/951/441159870_mp4_h264_aac_l2.m3u8
+
+#EXTINF:-1 tvg-logo="F" group-title="1 reina del sur", 02e36
+https://proxy-18.nyc.dailymotion.com/sec(6mjGSXKUXBTNOsXCOTFc-b3MKSzkZu_ho9mUO6S9f6xuKbWiZTMFLUGQqQ3Xa3xlmEDO2hRqIppPWA7udzkQBAH5I5C_SGugkUqAcQWXF8o)/video/140/779/440977041_mp4_h264_aac.m3u8
+
+#EXTINF:-1 tvg-logo="F" group-title="1 reina del sur", 02e37
+https://proxy-09.nyc.dailymotion.com/sec(f7OPR3CuerPHnzETozIU-8KJ7A8J_9Ph4G0z53WnS1F6Da72a4dFmcfPhyslVe-E2PJB7TYDIZd7hKHnxZbbrshQNY8W6GLvoRs31fideGg)/video/870/273/441372078_mp4_h264_aac_hq.m3u8
+
 #EXTINF:-1 tvg-logo="F" group-title="1 reina del sur", 02e38
-https://www.dailymotion.com/cdn/manifest/video/x7b0262.m3u8?sec=37JW5fNuy0oJLlbqU6i7CRpyI6uJjj4U0IPCJ1A4uzjQ1FY3qJiwOWdeN_KwxAIx
+https://proxy-07.nyc.dailymotion.com/sec(f2DpPaaM8u15Kq2lKySPGLjNLkufGs7Or8OL3Q5wCFXe_88G6gpWCMrS86fuRz9B5beCPLoTl2eLEwAUBB3nWl-bZsv24zdEkctbMpnlAFs)/video/818/147/441741818_mp4_h264_aac.m3u8
+
+#EXTINF:-1 tvg-logo="F" group-title="1 reina del sur", 02e39
+https://proxy-14.nyc.dailymotion.com/sec(x7QhsFQT25E0iGMBVv6oUKSeGBgnI1pf0z9HpQnttVVQq9cRgN0dlm3E0Gn1VQ2XiemhYRxmGjjtftChNaEoLcPlGcc_nnOfHae8H3D7wT8)/video/451/347/441743154_mp4_h264_aac_hq.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png" group-title="1 peliculas",HBO (SAP)
 http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8?fluxustv.m3u8
