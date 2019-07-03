@@ -1,8 +1,9 @@
 
 #EXTINF:-1, tvg-logo="" group-title="Leeme",- [COLOR cyan]Actualizado 04/04/2019[/COLOR] -
 
-#EXTINF:-1, tvg-logo="s" group-title="1 peliculas", telerium
-https://telerium.tv/361ebb02-4529-423f-b71a-ee7888190abf
+#EXTINF:-1, tvg-logo="s" group-title="1 peliculas", Brazil v arg
+https://ul.cdn946.net:8443/hls/m2o95it4y.m3u8?s=xPfeVysGRXumDeGnKBZ-Ig&e=1562136857
+
 
 #EXTINF:-1 tvg-logo="F" group-title="1 reina del sur", 34
 https://proxy-14.nyc.dailymotion.com/sec(ie_KKMG3lngG0gpoPHy7FIukQIyU31PUeZsGP3WsLaMrN_JPZOe7Wgiz3OJbJmjt_PPBPpGDnxX-UHre_wlace4bkRsFAXj9fWU3ettueNE)/video/170/951/441159071_mp4_h264_aac_hq.m3u8
