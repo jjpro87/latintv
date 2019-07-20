@@ -178,6 +178,9 @@ http://api.new.livestream.com/accounts/26619010/events/7987650/live.m3u8
 #EXTINF:-1, tvg-logo="oaxSwdU.png" group-title="Canales Peruanos", TV Peru Noticias | SD
 https://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
 
+#EXTINF:0  tvg-logo="http://www.losandes.com.pe/recursos/fotos/17639_370x0.jpg" group-title="Canales Peruanos",TV Peru HD
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+
 #EXTINF:-1, tvg-logo="Xwbpj7i.jpg" group-title="Canales Peruanos", Ovacion | SD
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
