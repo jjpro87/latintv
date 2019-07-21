@@ -4,8 +4,7 @@ https://e7.cdn4.us/ingest666/boxing.m3u8
 #EXTINF:0, ESPN1
 http://145.239.0.5:8880/live/DescargaNuestraAppTvPato2PuntoCom/2FC90E9F41AF48CDB789AB6C1163FE5A/175.m3u8
 
-#EXTINF:0, ESPN2
-https://e5.cdn4.us/ingest012/25069.m3u8?sf=QjU3Q2twTXB6Yw==&token=Vot19wPZ7vvMGr7s48Ljbw&expires=1563684482&rnd=25069
+
 
 #EXTINF:-1,IR: Press Tv Persian
 https://5a61de8ed719d.streamlock.net/liveprs/smil:liveprs.smil/chunklist_w2054338572_b944100_slen.m3u8
