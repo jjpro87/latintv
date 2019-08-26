@@ -162,10 +162,10 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1, tvg-logo="NF7NCCW.png" group-title="Canales Peruanos", ATV Noticias | SD
 http://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/playlist.m3u8|User-agent=iPhone
 
-#EXTINF:-1, tvg-logo="S8xJRB4.png" group-title="Canales Peruanos", ATV 
+##EXTINF:-1, tvg-logo="S8xJRB4.png" group-title="Canales Peruanos", ATV 
 https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8
 
-#EXTINF:-1, tvg-logo="S8xJRB4.png" group-title="Canales Peruanos", ATV+ 
+##EXTINF:-1, tvg-logo="S8xJRB4.png" group-title="Canales Peruanos", ATV+ 
 https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTY2OTQyODI5LCJzZXNzaW9uIjoiNDcuMTg4LjM2LjEwMSIsIndoaXRlbGlzdCI6WyI0Ny4xODguMzYuMTAxIl19LCJzaWduYXR1cmUiOiJiZWZmNzU5ZDdkMDE4NGE4Mzc1ZjcwZjM4Mzc5MTdlOGFjZWIxNzlkIn0=
 
 #EXTINF:-1, tvg-logo="W" group-title="Canales Peruanos", Willax TV | SD
@@ -174,7 +174,7 @@ http://api.new.livestream.com/accounts/26619010/events/7987650/live.m3u8
 #EXTINF:-1, tvg-logo="oaxSwdU.png" group-title="Canales Peruanos", TV Peru Noticias | SD
 https://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
 
-#EXTINF:0  tvg-logo="http://www.losandes.com.pe/recursos/fotos/17639_370x0.jpg" group-title="Canales Peruanos",TV Peru HD
+##EXTINF:0  tvg-logo="http://www.losandes.com.pe/recursos/fotos/17639_370x0.jpg" group-title="Canales Peruanos",TV Peru HD
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 
 #EXTINF:-1, tvg-logo="Xwbpj7i.jpg" group-title="Canales Peruanos", Ovacion | SD
