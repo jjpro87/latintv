@@ -12,8 +12,6 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 #EXTINF:-1, tvg-logo="C" group-title="USA", CBS | HD (Estados Unidos)
 http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
 
-#EXTINF:-1, tvg-logo="T" group-title="USA", Telemundo | HD 
-http://161.0.157.9/PLTV/88888888/224/3221226207/index.m3u8
 
 #EXTINF:-1, tvg-logo="C" group-title="USA", CBC | SD (Canada)
 http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
@@ -90,8 +88,6 @@ http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
 #EXTINF:-1, tvg-logo="eGvLDVR.png" group-title="Canales Mexicanos", Canal 10 Chetumal | HD
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="xDDd7fP.png" group-title="Canales Mexicanos", Telemundo | HD (Estados Unidos)
-http://161.0.157.9/PLTV/88888888/224/3221226207/index.m3u8
 
 #EXTINF:-1, tvg-logo="A9kTYN8.png" group-title="Canales Mexicanos", Multimedios Monterrey | HD
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
@@ -122,9 +118,6 @@ http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:li
  
 #EXTINF:-1, tvg-logo="xcpZ2Gr.jpg" group-title="Canales Mexicanos", Tlaxcala TV | SD
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="xDDd7fP.png" group-title="Canales Mexicanos", Telemundo | HD (Estados Unidos)
-http://161.0.157.9/PLTV/88888888/224/3221226207/index.m3u8
 
 #EXTINF:-1, tvg-logo="xDDd7fP.png" group-title="Canales Mexicanos", Univision | HD (Estados Unidos)
 http://54.39.158.163:25461/video_club/video_club1/280355
@@ -173,7 +166,7 @@ http://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/playlist.m3u8|User-agen
 https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8
 
 #EXTINF:-1, tvg-logo="S8xJRB4.png" group-title="Canales Peruanos", ATV+ 
-https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
+https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTY2OTQyODI5LCJzZXNzaW9uIjoiNDcuMTg4LjM2LjEwMSIsIndoaXRlbGlzdCI6WyI0Ny4xODguMzYuMTAxIl19LCJzaWduYXR1cmUiOiJiZWZmNzU5ZDdkMDE4NGE4Mzc1ZjcwZjM4Mzc5MTdlOGFjZWIxNzlkIn0=
 
 #EXTINF:-1, tvg-logo="W" group-title="Canales Peruanos", Willax TV | SD
 http://api.new.livestream.com/accounts/26619010/events/7987650/live.m3u8
@@ -214,8 +207,6 @@ https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3
 #EXTINF:-1, tvg-logo="S" group-title="Canales Peruanos", Sol TV | SD
 http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="T" group-title="Canales Peruanos", Telemundo | HD (Estados Unidos)
-http://161.0.157.9/PLTV/88888888/224/3221226207/index.m3u8
 
 #EXTINF:-1, tvg-logo="S" group-title="Canales Peruanos", TV PERU | SD
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
